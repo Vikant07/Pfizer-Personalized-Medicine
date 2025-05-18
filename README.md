@@ -18,7 +18,7 @@ Most drug treatments follow a one-size-fits-all model, but not all patients resp
 
 ## 📊 Dashboard Highlights
 
-![Dashboard Screenshot](./Screenshot%202025-05-18%20102611.jpg)
+![Dashboard Screenshot](https://github.com/Vikant07/Pfizer-Personalized-Medicine/blob/c614c3bf51a29d56587f2250a7d50e87def43555/Screenshot%202025-05-18%20102611.jpg)
 
 - 📌 **Success Rate by Gender & Age**: Females show a slightly higher success rate; age 18–30 group performs best.
 - 💊 **Survival Rate by Drug**: Drug B performs highest (15.16), followed by Drug D.
